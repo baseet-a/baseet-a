@@ -1,57 +1,18 @@
-<h1 align="center">Hi there, I'm Abdlerahman Abdelbaset</h1>
-<h3 align="center"> Data Scientist | Python & SQL Enthusiast | Power BI Explorer</h3>
-
-
-## 🌟 About Me
-
+# 💫 About Me:
 Passionate Data Scientist with a strong focus on transforming complex datasets into clear, actionable insights. Skilled in Python, SQL, and Power BI, with hands-on experience in data analysis, visualization, and machine learning.
----
 
-## 🧑‍💻 Professional Experience
 
-**Data Science Trainee At ALX**
-*2025 – Present*
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-baset) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdoabdelbaset99@gmail.com) 
 
-- Currently pursuing a 16-month intensive Data Science program focused on data analytics, machine learning, and cloud technologies.
-- Gaining hands-on experience with Excel, Power BI, MySQL, Python, and scikit-learn, along with exposure to AWS Cloud tools.
-- Built and delivered 4 major projects (each spanning 2–4 weeks), applying real-world data cleaning, analysis, visualization, and predictive modeling techniques.
-- Developing a strong foundation in data storytelling, problem-solving, and model deployment using industry-standard tools.
----
-
-## 🎓 Education
-
-**Higher Institute of BIS, Madina Academy**   
-_Graduation Year: 2025_
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=baseet-a&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=baseet-a&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baseet-a&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=baseet-a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Skills  
-
-<div align="center">
-
-  <!-- Core Data Science & Programming Skills -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn"/>
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:abdoabdelbaset99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdelrahman-baset" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AbdelrahmanBaset" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center"><b>Thanks for visiting my profile! Let's connect and create something amazing together.</b></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
