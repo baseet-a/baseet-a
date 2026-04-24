@@ -1,6 +1,5 @@
 # 💫 About Me:
-Passionate Data Scientist with a strong focus on transforming complex datasets into clear, actionable insights. Skilled in Python, SQL, and Power BI, with hands-on experience in data analysis, visualization, and machine learning.
-
+Data Scientist focused on turning complex data into actionable insights. Skilled in Python, SQL, and Power BI with hands-on experience in data analysis and machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-baset) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdoabdelbaset99@gmail.com) 
